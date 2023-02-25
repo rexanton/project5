@@ -6,5 +6,7 @@ class first
         System.out.println("some   :",a);
         b=20;
         System.out.println("some "+b);
+        v=6;
+        System.out.println("some "+v);
     }
 }
